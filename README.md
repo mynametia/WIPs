@@ -1,6 +1,7 @@
 # Work in Progress Projects
 
-![preview](./Touhou/media/Touhou_trim.mp4)
+[[Preview Video](./Touhou/media/Touhou_trim.mp4)]
+![Preview](./Touhou/media/Touhou_gif.gif)
 
 This repository temporarily contains the code for work in progress projects.
 
